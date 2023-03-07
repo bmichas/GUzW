@@ -24,7 +24,7 @@ RIGHT = 2
 UP = 3
 
 
-class frozenLake:
+class FrozenLakeMDPExtended:
 
     def __init__(self, type):
         """
